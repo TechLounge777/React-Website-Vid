@@ -20,16 +20,16 @@ function Cards() {
                     </ul>
                     <ul className="cards__items">
                         <CardItem 
-                        src='images/img-9.img' text='Explore the hidden waterfall deep inside the Amazon Jungle'
-                         label='Adventure' path='/services'
+                        src='images/img-3.img' text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+                         label='Mystery' path='/services'
                          />
                           <CardItem 
-                        src='images/img-2.img' text='Travel through the Islands of Bali in a Private Cruise'
-                         label='Luxury' path='/services'
+                        src='images/img-4.img' text='Experience football on top the Himilayan Mountains'
+                         label='Adventure' path='/products'
                          />
                           <CardItem 
-                        src='images/img-2.img' text='Travel through the Islands of Bali in a Private Cruise'
-                         label='Luxury' path='/services'
+                        src='images/img-8.img' text='Ride through the Sahara Desert on a guided camel tour'
+                         label='Adrenaline' path='/sign-up'
                          />
                     </ul>
                 </div>
