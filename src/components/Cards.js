@@ -9,7 +9,28 @@ function Cards() {
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
-                        <CardItem />
+                        <CardItem 
+                        src='images/img-9.img' text='Explore the hidden waterfall deep inside the Amazon Jungle'
+                         label='Adventure' path='/services'
+                         />
+                          <CardItem 
+                        src='images/img-2.img' text='Travel through the Islands of Bali in a Private Cruise'
+                         label='Luxury' path='/services'
+                         />
+                    </ul>
+                    <ul className="cards__items">
+                        <CardItem 
+                        src='images/img-9.img' text='Explore the hidden waterfall deep inside the Amazon Jungle'
+                         label='Adventure' path='/services'
+                         />
+                          <CardItem 
+                        src='images/img-2.img' text='Travel through the Islands of Bali in a Private Cruise'
+                         label='Luxury' path='/services'
+                         />
+                          <CardItem 
+                        src='images/img-2.img' text='Travel through the Islands of Bali in a Private Cruise'
+                         label='Luxury' path='/services'
+                         />
                     </ul>
                 </div>
             </div>
